@@ -3,5 +3,5 @@
 > Status do Arquivo: EM ANDAMENTO
 
 ```
-nmd instal react
+node app.js
 ```
